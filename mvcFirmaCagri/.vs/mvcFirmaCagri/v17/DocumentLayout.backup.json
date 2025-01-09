@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\mvcfirmacagri\\views\\shared\\firmalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|solutionrelative:views\\shared\\firmalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\mvcfirmacagri\\views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|solutionrelative:views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4299EB-458B-4550-BBE7-E9957ADD0F1E}|mvcFirmaCagri.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirmaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Views\\Shared\\FirmaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\FirmaLayout.cshtml",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Views\\Shared\\FirmaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\FirmaLayout.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T20:14:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeToolTip": "Views\\Default\\AnaSayfa.cshtml",
+              "ViewState": "AgIAAGECAAAAAAAAAAAAAOAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T17:37:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\mvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:33:03.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
